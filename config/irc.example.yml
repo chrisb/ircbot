@@ -1,0 +1,4 @@
+server: irc.someserver.com
+port: 6667
+nick: RubyBot
+channel: ruby # channel name without hash
